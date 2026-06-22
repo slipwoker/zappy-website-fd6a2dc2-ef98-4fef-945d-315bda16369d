@@ -1,0 +1,104 @@
+# larimar — Generative Engine Optimization Map
+
+> A marketing website for an anti-cellulite device in the beauty and wellness industry. The product targets body care and skin improvement, likely appealing to women seeking non-invasive solutions for smoother skin. The brand sits at the intersection of beauty technology and self-care.
+
+---
+
+## Pages
+
+### בית
+https://larimar-fd6a2dc2.zappy5.app
+גלי את המכשיר המתקדם לטיפול בצלוליטיס שמעניק לך עור חלק ומתוח ללא ניתוחים. טכנולוגיית יופי פורצת דרך שמשלבת טיפוח עצמי עם תוצאות אמיתיות. התחילי את המסע לעור מושלם עכשיו!
+
+### אודות
+https://larimar-fd6a2dc2.zappy5.app/about
+בואי להכיר את החזון שמאחורי larimar – מותג שמשלב מדע, טכנולוגיה ואהבה לגוף הנשי. אנחנו מחויבים לפתרונות לא פולשניים לצלוליטיס שמחזירים את הביטחון העצמי. הצטרפי לקהילת הנשים שכבר שינו את חייהן!
+
+### גלריה
+https://larimar-fd6a2dc2.zappy5.app/gallery
+צפי בתמונות אמיתיות של נשים שהשיגו עור חלק ונטול צלוליט בזכות larimar. גלריית השראה שמוכיחה ששינוי אמיתי אפשרי – ללא דיאטה קיצונית או ניתוחים. התוצאה הבאה יכולה להיות שלך!
+
+### צור קשר
+https://larimar-fd6a2dc2.zappy5.app/contact
+אל תתני לצלוליטיס לנהל לך את החיים. צרי איתנו קשר עוד היום לקבלת ייעוץ אישי, פרטים על המכשיר והצעות מיוחדות. המומחיות שלנו במשקל, תזונה וחיטוב מחכה לך – בואי לדבר איתנו!
+
+### Products
+https://larimar-fd6a2dc2.zappy5.app/products
+המוצרים שלנו - larimar
+
+### Cart
+https://larimar-fd6a2dc2.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://larimar-fd6a2dc2.zappy5.app/checkout
+תשלום
+
+### Login
+https://larimar-fd6a2dc2.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://larimar-fd6a2dc2.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://larimar-fd6a2dc2.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://larimar-fd6a2dc2.zappy5.app/product/:slug
+פרטי המוצר - larimar
+
+### Category
+https://larimar-fd6a2dc2.zappy5.app/category/:slug
+מוצרים - larimar
+
+### תודה שפנית אלינו
+https://larimar-fd6a2dc2.zappy5.app/thank-you
+larimar - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://larimar-fd6a2dc2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://larimar-fd6a2dc2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://larimar-fd6a2dc2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About larimar
+A marketing website for an anti-cellulite device in the beauty and wellness industry. The product targets body care and skin improvement, likely appealing to women seeking non-invasive solutions for smoother skin. The brand sits at the intersection of beauty technology and self-care.
+
+## Target Audience
+- נשים מודעות לבריאות
+- חובבות כושר
+- אמהות לאחר לידה
+
+## Industry
+Beauty & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://larimar-fd6a2dc2.zappy5.app/sitemap.xml
+- Robots: https://larimar-fd6a2dc2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://larimar-fd6a2dc2.zappy5.app/llms-full.txt
+- Products (JSON): https://larimar-fd6a2dc2.zappy5.app/products.json
+- Products (Google Merchant RSS): https://larimar-fd6a2dc2.zappy5.app/product-feed.xml
