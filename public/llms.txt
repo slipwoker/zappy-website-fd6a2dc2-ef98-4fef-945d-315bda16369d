@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://larimar-fd6a2dc2.zappy5.app
+https://example.com
 גלי את המכשיר המתקדם לטיפול בצלוליטיס שמעניק לך עור חלק ומתוח ללא ניתוחים. טכנולוגיית יופי פורצת דרך שמשלבת טיפוח עצמי עם תוצאות אמיתיות. התחילי את המסע לעור מושלם עכשיו!
 
 ### אודות
-https://larimar-fd6a2dc2.zappy5.app/about
+https://example.com/about
 בואי להכיר את החזון שמאחורי larimar – מותג שמשלב מדע, טכנולוגיה ואהבה לגוף הנשי. אנחנו מחויבים לפתרונות לא פולשניים לצלוליטיס שמחזירים את הביטחון העצמי. הצטרפי לקהילת הנשים שכבר שינו את חייהן!
 
 ### גלריה
-https://larimar-fd6a2dc2.zappy5.app/gallery
+https://example.com/gallery
 צפי בתמונות אמיתיות של נשים שהשיגו עור חלק ונטול צלוליט בזכות larimar. גלריית השראה שמוכיחה ששינוי אמיתי אפשרי – ללא דיאטה קיצונית או ניתוחים. התוצאה הבאה יכולה להיות שלך!
 
 ### צור קשר
-https://larimar-fd6a2dc2.zappy5.app/contact
+https://example.com/contact
 אל תתני לצלוליטיס לנהל לך את החיים. צרי איתנו קשר עוד היום לקבלת ייעוץ אישי, פרטים על המכשיר והצעות מיוחדות. המומחיות שלנו במשקל, תזונה וחיטוב מחכה לך – בואי לדבר איתנו!
 
 ### Products
-https://larimar-fd6a2dc2.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - larimar
 
 ### Cart
-https://larimar-fd6a2dc2.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://larimar-fd6a2dc2.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://larimar-fd6a2dc2.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://larimar-fd6a2dc2.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://larimar-fd6a2dc2.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://larimar-fd6a2dc2.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - larimar
 
 ### Category
-https://larimar-fd6a2dc2.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - larimar
 
 ### תודה שפנית אלינו
-https://larimar-fd6a2dc2.zappy5.app/thank-you
+https://example.com/thank-you
 larimar - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://larimar-fd6a2dc2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://larimar-fd6a2dc2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://larimar-fd6a2dc2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Beauty & Wellness
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://larimar-fd6a2dc2.zappy5.app/sitemap.xml
-- Robots: https://larimar-fd6a2dc2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://larimar-fd6a2dc2.zappy5.app/llms-full.txt
-- Products (JSON): https://larimar-fd6a2dc2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://larimar-fd6a2dc2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
